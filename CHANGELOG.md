@@ -1,3 +1,13 @@
+## 6.14.9 (2020-11-20)
+
+### Dependencies
+* [`8b5223826`](https://github.com/npm/cli/commit/8b5223826ee2a98a9b42d928162d143664f72735)
+  `npm-user-validate@1.0.1`
+  * dep update to resolve security issue [GHSA-xgh6-85xh-479p](https://github.com/advisories/GHSA-xgh6-85xh-479p)
+* [`6b2ab9d53`](https://github.com/npm/cli/commit/6b2ab9d532ef8ffce326f4caa23eb27f83765acd)
+  `har-validator@5.1.5`
+  * dep update to resolve security issue [SNYK-JS-AJV-584908](https://snyk.io/vuln/SNYK-JS-AJV-584908)
+
 ## 6.14.8 (2020-08-17)
 
 ### BUG FIXES
